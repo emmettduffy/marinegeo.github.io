@@ -68,4 +68,4 @@ a.	When you first start deploying these assays, or switch to a new species of ma
 
 ## Data curation      
 
-Submit data to marinegeo-data@si.edu.
+In the field, record your data on the Field data sheet downloadable from the link above. Then transcribe the data onto the Data entry template, also at the lionk above, and submit data to marinegeo-data@si.edu.
